@@ -3,13 +3,13 @@
 	
 }
 div::before{
-	content: 'Befor Content';
+	content: 'Befor Element';
 	color:red;
 	font-size:20px;
 	
 }
 div::after{
-	content: 'After Content';
+	content: 'After Element';
 	color:red;
 	font-size:20px;
 }
